@@ -31,7 +31,7 @@ Sitenizi tasarlarken aşağıdaki wireframe(çerçeve)'leri kılavuz olarak kull
 
 ### Görev 2: Proje Gereklilikleri
 
-Bitmiş proje aşağıdaki gereklilikleri içermelidir:
+Bitmiş proje aşağıdaki gereklilikleri içermelidir:npm 
 
 - [ ] Route u "/" olan ve forma linklenen bir anasayfa (button, nav bar, ya da  herhangi bir link kabul edilebilir ama id'si "order-pizza" olmalı)
 - [ ] Route u  "/pizza" olan bir sipariş formu
